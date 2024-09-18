@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas ao meu perfil💙
 
-<!--
-**SantosBiaa/SantosBiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Beatriz Santos
 
-Here are some ideas to get you started:
+- Estou fazendo curso na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Jva Script
+- Ultilizo esse espaço para minha organização e comartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo🎙️
+
+- @00001089054014sp@al.educacao.sp.gov.br
+- @SantosBiaa
+
+https://editor.p5js.org/Santos.Biaa/sketches/A0s0b6jcB
+
+
+![](https://media1.tenor.com/m/QmiXofpmgjYAAAAd/menina-da-bota-meninadabota.gif)[]
+
